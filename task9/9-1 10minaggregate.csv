@@ -1,0 +1,5 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+T01_Hospital_launch,2,109,107,111,111,111,107,111,0.000%,3.15956,523.54,10.62
+T02_Hospital_create account,10,29,27,38,38,56,20,56,0.000%,.47774,5.65,1.23
+T03_Hospital_login,10,58,55,81,81,84,32,84,0.000%,.47842,17.87,1.63
+TOTAL,22,49,39,84,107,111,20,111,0.000%,.70715,26.46,2.13
