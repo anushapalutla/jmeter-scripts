@@ -1,0 +1,8 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+T01_Demoair_Login,1360,33,33,48,49,60,8,102,0.000%,.32097,2.62,0.78
+T02_Demoair_click book flight ticket,1360,2,2,4,6,16,1,22,0.515%,.32098,1.16,0.17
+T03_Demoair_search for flight,1360,13,12,21,24,34,4,66,0.294%,.32098,32.94,0.25
+T04_Demoair_select flight,1360,2,2,4,6,15,1,40,0.441%,.32098,1.18,0.22
+T05_Demoair_enter passenger details,1360,57,57,76,86,104,22,145,0.441%,.32097,3.80,1.26
+T06_Demoair_logout,1360,5,4,8,11,18,2,37,0.662%,.32098,1.15,0.51
+TOTAL,8160,19,7,55,65,82,1,145,0.392%,1.91447,42.59,3.18

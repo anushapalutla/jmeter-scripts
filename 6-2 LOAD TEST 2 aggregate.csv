@@ -1,0 +1,12 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+T01_Demoair_launch,1000,2,2,4,5,12,1,37,0.000%,.24704,0.56,0.13
+T02_Demoair_login,1000,14,14,22,24,34,4,70,0.100%,.24705,1.23,0.47
+T03_Demoair_add aircraft details,1000,15,18,23,26,37,4,48,0.100%,.24705,1.88,0.61
+T04_Demoair_activate air craft,1000,16,17,23,27,41,5,474,0.000%,.24705,2.00,0.75
+T05_Demoair_add flight scehedule,1000,15,17,23,28,41,5,73,0.200%,.24705,2.66,0.63
+T06_Demoair_logout,1000,5,4,8,11,18,2,38,0.000%,.24705,0.89,0.39
+S_T07_Demoair_Launch and book ticket,1000,2,2,4,6,12,1,21,0.100%,.24705,0.55,0.13
+S_T08_Demoair_login with credentials,1000,31,33,49,50,61,7,91,0.000%,.24705,1.46,0.47
+S_T09_Demoair_click book flights,1000,2,2,4,6,11,1,35,0.000%,.24705,0.89,0.13
+S_T10_Demoair_enter all details,50,11,9,18,22,27,5,27,0.000%,.20430,20.73,0.16
+TOTAL,9050,11,8,25,34,49,1,474,0.055%,2.21377,13.25,3.68
